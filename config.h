@@ -96,35 +96,35 @@ unsigned int tabspaces = 8;
 /* Terminal colors (16 first used in escape sequence) */
 
 /*
-* base16-gruvbox-dark-medium-theme.h
+* base16-monokai-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *
 * Authors:
 *
-* Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+* Scheme: Wimer Hazenberg (http://www.monokai.nl)
 * Template: Honza Pokorny <me@honza.ca>
 *
 */
 
 
 static const char *colorname[] = {
-  "#282828", /* base00 */
-  "#fb4934", /* base08 */
-  "#b8bb26", /* base0B */
-  "#fabd2f", /* base0A */
-  "#83a598", /* base0D */
-  "#d3869b", /* base0E */
-  "#8ec07c", /* base0C */
-  "#d5c4a1", /* base05 */
-  "#665c54", /* base03 */
-  "#fe8019", /* base09 */
-  "#3c3836", /* base01 */
-  "#504945", /* base02 */
-  "#bdae93", /* base04 */
-  "#ebdbb2", /* base06 */
-  "#d65d0e", /* base0F */
-  "#fbf1c7", /* base07 */
+  "#272822", /* base00 */
+  "#f92672", /* base08 */
+  "#a6e22e", /* base0B */
+  "#f4bf75", /* base0A */
+  "#66d9ef", /* base0D */
+  "#ae81ff", /* base0E */
+  "#a1efe4", /* base0C */
+  "#f8f8f2", /* base05 */
+  "#75715e", /* base03 */
+  "#fd971f", /* base09 */
+  "#383830", /* base01 */
+  "#49483e", /* base02 */
+  "#a59f85", /* base04 */
+  "#f5f4f1", /* base06 */
+  "#cc6633", /* base0F */
+  "#f9f8f5", /* base07 */
 };
 
 unsigned int defaultfg = 7;
