@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Noto Sans Mono Light:pixelsize=18:antialias=true:autohint=true";
+static char *font = "NotoSansMono Nerd Font:style=Light:pixelsize=18:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
